@@ -1,5 +1,6 @@
 {
-  "homepage": "<https://Prableen01.github.io/React-Home>",
+  "private": false,
+  "homepage": "https://Prableen01.github.io/React-Home",
   "name": "app01",
   "version": "0.1.0",
   "private": true,
